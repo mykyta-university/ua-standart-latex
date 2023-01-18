@@ -1,0 +1,11 @@
+# LaTeX compile files
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.pdf
+*.gz
+*.xdv
+
+# VS code
+.vscode
